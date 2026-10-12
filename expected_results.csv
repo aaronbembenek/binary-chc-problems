@@ -111,8 +111,8 @@ test/demo/37/37.-O0.smt2,unknown
 test/demo/37/37.-O2.smt2,unsat
 test/demo/01/01.-O2.smt2,unsat
 test/demo/01/01.-O0.smt2,unsat
-test/demo/06/06.-O2.smt2,unknown
-test/demo/06/06.-O0.smt2,unknown
+test/demo/06/06.-O2.smt2,unsat
+test/demo/06/06.-O0.smt2,unsat
 test/demo/39/39.-O2.smt2,unknown
 test/demo/39/39.-O0.smt2,unknown
 test/demo/ex10/ex10.-O0.smt2,unsat
